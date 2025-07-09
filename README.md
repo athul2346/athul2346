@@ -1,6 +1,6 @@
 # Introduction
 
-Hi there! 👋 I'm Athul , a R&D Engineer based in Kerala. I have a passion for AI/ML,Python,Django etc. This GitHub repository serves as a showcase of my work, projects, and contributions in the world of Artificial Intelligence
+Hi there! 👋 I'm Athul , a ML Engineer based in Kerala. I have a passion for AI/ML,Python,Django etc. This GitHub repository serves as a showcase of my work, projects, and contributions in the world of Artificial Intelligence
 and Machine Learning mainly.
 # About Me
 
