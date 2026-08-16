@@ -1,43 +1,20 @@
-# Introduction
-
-Hi there! 👋 I'm Athul , a ML Engineer based in Kerala. I have a passion for AI/ML,Python,Django etc. This GitHub repository serves as a showcase of my work, projects, and contributions in the world of Artificial Intelligence
-and Machine Learning mainly.
-# About Me
-
-I'm an aspiring Machine Learning and python developer who looks forward to make changes in the world by giving intelligence to machines.
-Whether it's coding, designing, or exploring new technologies, I love all of these and maximise my time usage to these fields. My journey in IT Field started in 2019 as an ordinary desktop support engineer but I was able to t
-transition my career into the world of python by 2021, and I've been into python and AI/ML ever since.Some of my projects are given below.Feel free to visit other projects also in my github profile
-# Projects
-Aadhar Masking Solution using Vision API
-
-    Description: The project aims to detect AADHAR card number from an image and to mask the first 8 digits of the AADHAR number by detecting it using VISION API
-    Technologies Used: Python,AI/ML
-
-Human Count Detection
-
-    Description:The project aims to find the number of humans detected in an image using YoloV4
-    Technologies Used: Python,YOLO package
-
-
-# Skills
-My stength mainly includes
-1)Python
-2)AI/ML
-3)Django/Flask
-4)JS 
-5)HTML,CSS etc
-
-    
-
-Contact
-
-    Email: athulbabu.a@gmail.com
-    LinkedIn:https://www.linkedin.com/in/athul-a-42487968/
-
-
-Let's Connect!
-
-I'm always open to collaborations, discussions, and new opportunities. Feel free to reach out—I'd love to connect and chat about [Your Interests] or anything else you find intriguing!
-
-Happy coding! 🚀.
-
+Hi, I'm Athul 👋
+Senior Python Backend Developer & AI/ML Engineer, based in Kerala, India — currently building microservices infrastructure at Io-market Software Services (the Indian office of a Swiss company).
+5+ years across backend engineering and applied AI/ML: authentication & authorization systems, event-driven microservices, and LLM-powered data extraction pipelines. Previously led a team of 12 as Assistant Tech Lead at Manappuram Finance, building fraud-detection and KYC systems used across a 40,000+ employee organization.
+What I work on
+Backend systems: FastAPI, Django, Kafka-based event pipelines, RBAC/SSO integration, Kubernetes
+Applied AI/ML: LLM-based structured data extraction, computer vision fraud detection, model deployment
+Currently exploring: agentic multi-model pipelines, cybersecurity fundamentals
+Featured projects
+Project	What it does
+fastapi-rbac-lite	Published on PyPI — pluggable RBAC library for FastAPI with JWT/JWKS verification and configurable permission resolvers
+Invoice_extraction	Production-style invoice extraction using zone-based PDF parsing and a local LLM, with mathematical tax reconciliation
+mindspace-backend	FastAPI backend for an anonymous mental health app — LLM-powered chat, mood tracking, journaling
+flight_passenger_forecasting	Django app forecasting demand using Prophet, ARIMA, LSTM, ensemble models
+cert-master	Django REST API for bulk digital certificate generation, Dockerized
+Rate-Limiter	FastAPI service demonstrating JWT auth, Redis-backed rate limiting, API versioning
+(full version has clickable links to each repo)
+Tech stack
+Python, FastAPI, Django, PostgreSQL, Kafka, Redis, Kubernetes, Docker, TensorFlow, PyTorch, LLM integration (Ollama, Qwen, Gemini, Groq), OAuth2/JWT, RBAC design
+Let's connect
+📧 athulbabu.a@gmail.com · 💼 LinkedIn
